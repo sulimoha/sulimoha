@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently enrolled in a fullstack software engineer program at [ALX](https://www.alxafrica.com/)
+- 🔭 I’m currently enrolled in a full stack software engineer program at [ALX](https://www.alxafrica.com/)
 - 🌱 I’m currently learning C Programming, Linux/command line, Data Structure & Algorithms, Python, Cloud Developement and more!
 
 
